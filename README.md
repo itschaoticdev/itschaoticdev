@@ -61,4 +61,4 @@ Available for game server infrastructure, custom tooling and bots, game mod deve
 small-business web work. If you've got a server problem nobody else wants to touch, that's usually
 the fun one.
 
-📧 **admin@breakneckhosting.com**
+📧 **support@breakneckhosting.com**
